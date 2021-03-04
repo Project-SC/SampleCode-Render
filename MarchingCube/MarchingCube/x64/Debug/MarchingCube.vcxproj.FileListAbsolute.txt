@@ -1,0 +1,8 @@
+D:\Sample Code\MarchingCube\x64\Debug\Depth_PS.cso
+D:\Sample Code\MarchingCube\x64\Debug\Depth_VS.cso
+D:\Sample Code\MarchingCube\x64\Debug\Geometry_VS.cso
+D:\Sample Code\MarchingCube\x64\Debug\MarchingCube_GS.cso
+D:\Sample Code\MarchingCube\x64\Debug\Tessellation_DS.cso
+D:\Sample Code\MarchingCube\x64\Debug\Tessellation_HS.cso
+D:\Sample Code\MarchingCube\x64\Debug\Triplanar_Displacement_PS.cso
+D:\Sample Code\MarchingCube\x64\Debug\MarchingCube_VS.cso

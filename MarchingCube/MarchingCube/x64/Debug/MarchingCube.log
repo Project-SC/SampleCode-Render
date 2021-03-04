@@ -1,0 +1,54 @@
+﻿  compilation object save succeeded; see D:\Sample Code\MarchingCube\x64\Debug\Depth_PS.cso
+  compilation object save succeeded; see D:\Sample Code\MarchingCube\x64\Debug\Depth_VS.cso
+  compilation object save succeeded; see D:\Sample Code\MarchingCube\x64\Debug\Geometry_VS.cso
+D:\Sample Code\MarchingCube\MarchingCube\MarchingCube_GS.hlsl(80,5): warning X4000: use of potentially uninitialized variable (checkTriangleLUT)
+  compilation object save succeeded; see D:\Sample Code\MarchingCube\x64\Debug\MarchingCube_GS.cso
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+FXC : warning X4715: emitting a system-interpreted value which may not be written in every execution path of the shader
+  
+  compilation object save succeeded; see D:\Sample Code\MarchingCube\x64\Debug\Tessellation_DS.cso
+  compilation object save succeeded; see D:\Sample Code\MarchingCube\x64\Debug\Tessellation_HS.cso
+D:\Sample Code\MarchingCube\MarchingCube\Triplanar_Displacement_PS.hlsl(182,23-82): warning X3582: texture access must have literal offset and multisample index, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\Sample Code\MarchingCube\x64\Debug\Triplanar_Displacement_PS.cso
+  compilation object save succeeded; see D:\Sample Code\MarchingCube\x64\Debug\MarchingCube_VS.cso
+  CameraClass.cpp
+  DepthShaderClass.cpp
+  DomainShader.cpp
+  HullShader.cpp
+  KdTree.cpp
+  GeometryData.cpp
+  GeometryDoubleBufferShader.cpp
+  GeometryOutputShader.cpp
+  GeometryShader.cpp
+  LightClass.cpp
+  lodepng.cpp
+  modelclass.cpp
+  ParticleSystem.cpp
+  PerformanceTimer.cpp
+  PixelShader.cpp
+  RenderTextureClass.cpp
+  D3DClass.cpp
+  GraphicsClass.cpp
+  InputClass.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  ShadowMap.cpp
+  SystemClass.cpp
+  TextureClass.cpp
+  TimerClass.cpp
+  VertexShader.cpp
+  코드를 생성하고 있습니다...
+     D:\Sample Code\MarchingCube\x64\Debug\MarchingCube.lib 라이브러리 및 D:\Sample Code\MarchingCube\x64\Debug\MarchingCube.exp 개체를 생성하고 있습니다.
+  MarchingCube.vcxproj -> D:\Sample Code\MarchingCube\x64\Debug\MarchingCube.exe
